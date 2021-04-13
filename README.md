@@ -1,14 +1,14 @@
 # Olá / Hi there 🤖🖖
 
-Me Chamo Vitor Hugo e atualmente sou desenvolvedor jr em formação pela Generation Brasil, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
+Me Chamo Vitor Hugo e atualmente estou estudando para ser desenvolvedor jr pela Generation Brasil, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
 
 
 
 ![Commodore C64 GIF - Commodore C64 Saludo GIFs](https://media.tenor.com/images/ff99170c79831e58dd7c9bf6b8e955e7/tenor.gif)
 
-- 🔭 I estou  procurando emprego na área de desenvolvedor full satck Java jr. 
-- 🌱 I’m currently learning  na equipe Generation Brasil,  a linguagem java.
-- 🤔 I’m looking for help with  front end.
+- 🔭 I estou  procurando emprego na área de Desenvolvedor Full Stack Java jr. 
+- 🌱 I am currently learning at Generation Brasil .
+- 🤔 I’m looking for help with  Front End.
 - 💬 Ask me about  tudo no LinkedIn ou outras redes sociais.
 - 📫 How to reach me: vitorhugo909@gmail.com
 
