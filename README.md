@@ -1,6 +1,6 @@
 # Olá / Hi there 🤖🖖
 
-Me Chamo Vitor Hugo e atualmente estou estudando para ser desenvolvedor jr pela Generation Brasil, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
+Me Chamo Vitor Hugo e atualmente estou estudando  pela Generation Brasil para ser desenvolvedor jr, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
 
 
 
@@ -9,12 +9,12 @@ Me Chamo Vitor Hugo e atualmente estou estudando para ser desenvolvedor jr pela 
 
 
 
+- 🔭 Estou procurando emprego na área de Desenvolvedor Full Stack Java jr.
+- 🌱 Atualmente estou aprendendo na Generation Brasil.
+- 🤔 Estou procurando ajuda com o Front End.
+- 💬 Pergunte-me sobre tudo no LinkedIn ou outras redes sociais.
+- 📫 Como entrar em contato comigo: vitorhugo909@gmail.com
 
-- 🔭 I estou  procurando emprego na área de Desenvolvedor Full Stack Java jr. 
-- 🌱 I am currently learning at Generation Brasil .
-- 🤔 I’m looking for help with  Front End.
-- 💬 Ask me about  tudo no LinkedIn ou outras redes sociais.
-- 📫 How to reach me: vitorhugo909@gmail.com
 
 
 
