@@ -11,7 +11,7 @@ Me Chamo Vitor Hugo e atualmente estou estudando  pela Generation Brasil para se
 
 - 🔭 Estou procurando emprego na área de Desenvolvedor Full Stack Java jr.
 - 🌱 Atualmente estou aprendendo na Generation Brasil.
-- 🤔 Estou procurando ajuda com o Front End.
+- 🤔 Estou sempre melhorando a cada dia.
 - 💬 Pergunte-me sobre tudo no LinkedIn ou outras redes sociais.
 - 📫 Como entrar em contato comigo: vitorhugo909@gmail.com
 
