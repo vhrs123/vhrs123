@@ -23,7 +23,7 @@ Me Chamo Vitor Hugo e atualmente estou estudando  pela Generation Brasil para se
 
 - 💬 Pergunte-me sobre tudo no LinkedIn ou outras redes sociais.
 
-- 📫 Como entrar em contato comigo: vitorhugo909@gmail.com
+- 📫 Como entrar em contato comigo: vitorhugo909@gmail.com ou redes sociais abaixo.
 
 
 
