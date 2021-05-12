@@ -1,6 +1,6 @@
 # Olá / Hi there 🤖🖖
 
-Me Chamo Vitor Hugo e atualmente estou estudando  pela Generation Brasil para ser Desenvolvedor jr, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
+Me Chamo Vitor Hugo, e sejam todos muito bem vindos ao meu GitHub! 📁🔰 
 
 
 
